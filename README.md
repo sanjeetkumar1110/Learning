@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanjeetkumar1110
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on php.
+- 🌱 I’m currently learning html5, CSS3, JAVASCRIPT, PHP AND MySQL
+- 💞️ I’m looking to collaborate on html5, CSS3, JAVASCRIPT, PHP AND MySQL.
 - 📫 How to reach me at my best.
 
 <!---
